@@ -5,9 +5,103 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a28dc958-e1ce-4008-8925-78c2f27d6686" name="更改" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.2025-2-26 M_Stdio/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.2025-2-26 M_Stdio/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.2025-2-26 M_Stdio/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025-2-26 M_Stdio.sln" beforeDir="false" afterPath="$PROJECT_DIR$/2025-2-26 M_Stdio.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character.mixer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character.mixer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enviroment.mixer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Enviroment.mixer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Characters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Characters/Enemy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Characters/Enemy/SlimePBR.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Characters/Enemy/SlimePBR.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Characters/Player.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Characters/Player.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/DialogueUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/DialogueUI/Option Button.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/DialogueUI/Option Button.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Inventory UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Inventory UI/Action Button.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Inventory UI/Action Button.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Inventory UI/Item Tool Tip.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Inventory UI/Item Tool Tip.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Inventory UI/ItemSlot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Inventory UI/ItemSlot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Inventory UI/Slot Holder.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Inventory UI/Slot Holder.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Items.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Items/Equipments.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Items/Equipments/Sword_eq.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Items/Equipments/Sword_eq.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Items/On World.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Items/On World/Sword.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Items/On World/Sword.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Items/On World/mushroom.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Items/On World/mushroom.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/QuestUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/QuestUI/QuestName Button.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/QuestUI/QuestName Button.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/QuestUI/Requirement.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/QuestUI/Requirement.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/QuestUI/RewardItemSlot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/QuestUI/RewardItemSlot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/UI/New Render Texture.renderTexture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/UI/New Render Texture.renderTexture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/River.mixer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/River.mixer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/DOCUMENTATION.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/DOCUMENTATION.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Demo/Bloom_Texture 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Demo/Bloom_Texture 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Demo/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Demo/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Demo/Demo_Postprocessing.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Demo/Demo_Postprocessing.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Materials/SSR_Water.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Materials/SSR_Water.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Materials/SSR_Water_Bright.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Materials/SSR_Water_Bright.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Resources/Water_Volume.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Resources/Water_Volume.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Scripts/Water_Settings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Scripts/Water_Settings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Scripts/Water_Volume.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Scripts/Water_Volume.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/Edge_Distance.shadersubgraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/Edge_Distance.shadersubgraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/Refraction_Water.shadersubgraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/Refraction_Water.shadersubgraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/SSR_Water.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/SSR_Water.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/Volumetric_Water.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/Volumetric_Water.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/WSUV_Water.shadersubgraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/WSUV_Water.shadersubgraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/WaterDepthToWorldPos.shadersubgraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/WaterDepthToWorldPos.shadersubgraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/WaterSSR.hlsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/WaterSSR.hlsl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/Water_Volume.hlsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/Water_Volume.hlsl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/Wave_Distance.shadersubgraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Shaders/Wave_Distance.shadersubgraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Water_Plane.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaterWorks/Water_Plane.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Wind.mixer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Wind.mixer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/a_Script.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/z_AddOns/Polybrush Data/Prefab Palette/PrefabPalette-Default.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/z_AddOns/Polybrush Data/Prefab Palette/PrefabPalette-Default.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.polybrush/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.polybrush/Settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,22 +145,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;111&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;UnrealLogSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;附加到 Unity 编辑器.附加到 Unity 编辑器.executor&quot;: &quot;Debug&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "UnrealLogSettings",
+    "vue.rearranger.settings.migration": "true",
+    "附加到 Unity 编辑器.附加到 Unity 编辑器.executor": "Debug"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="附加到 Unity 编辑器.附加到 Unity 编辑器">
     <configuration name="启动 Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.52f1c1\Editor\Unity.exe" />
@@ -141,6 +235,7 @@
       <workItem from="1744109779618" duration="5586000" />
       <workItem from="1744174377876" duration="1198000" />
       <workItem from="1747231211360" duration="1813000" />
+      <workItem from="1747898581452" duration="706000" />
     </task>
     <task id="LOCAL-00001" summary="add 屎山提交">
       <option name="closed" value="true" />
